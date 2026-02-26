@@ -1,4 +1,4 @@
-# Training Management
+# Workout Management
 
 ## Node Version Use
  - 24.14
